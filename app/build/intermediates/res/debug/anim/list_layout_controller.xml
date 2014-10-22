@@ -1,3 +1,0 @@
-<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
- android:delay="25%"
- android:animation="@anim/scale" /><!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/anim/list_layout_controller.xml -->
