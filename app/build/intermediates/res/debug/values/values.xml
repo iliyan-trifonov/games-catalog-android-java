@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="listArray">
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+    </string-array>
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="blue">#0303ff</color>
+    <color name="grey">#f7f7f7</color>
+    <color name="orange">#F88017</color>
+    <!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">PS3 игри</string>
+    <string name="app_name_suffix">example.com PS3 игри</string>
+    <string name="confirm_dialog_message">Да маркирам ли всички резултати като прочетени?</string>
+    <string name="confirm_dialog_no">Не</string>
+    <string name="confirm_dialog_title">Въпрос</string>
+    <string name="confirm_dialog_yes">Да</string>
+    <string name="data_url_json">http://www.example.com/android/ps3</string>
+    <string name="date_seen_txt">date_seen</string>
+    <string name="db_preffix">example</string>
+    <string name="published_text">published</string>
+    <string name="row_imgview_background">BLACK</string>
+    <string name="search_button_text">Търси</string>
+    <string name="url_game_page">http://www.example.com/view/</string>
+    <string name="url_game_thumb">http://www.example.com/photos/catalogue/</string>
+    <string name="url_no_image_thumb">http://www.example.com/images/no_photo_t.jpg</string>
+    <string name="url_referer">http://www.example.com/ps3</string>
+    <string name="url_site">example.com</string>
+    <!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/view_styles.xml -->
+    <eat-comment />
+
+    <style name="details_text_big" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">26px</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="details_text_normal">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

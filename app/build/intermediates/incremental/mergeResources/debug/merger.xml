@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res" >
+            <file
+                name="preferences"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/xml/preferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="ic_menu_resize"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_resize.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_database"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_database.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_globe"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_globe.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_settings"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_settings.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_tick"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_tick.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_love"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_love.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_phone"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_phone.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_categories"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/ic_menu_categories.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_icon_author"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-mdpi/menu_icon_author.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="scale"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/anim/scale.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="list_layout_controller"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/anim/list_layout_controller.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="animation"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/anim/animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="game_details"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/game_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="search"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/search.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="row"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="image_preview"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/image_preview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listview_row_gradient_clicked"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable/listview_row_gradient_clicked.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="listview_row_gradient"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable/listview_row_gradient.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rowselector"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable/rowselector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="details_menu"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/menu/details_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_menu"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/menu/main_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/view_styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="details_text_big"
+                    parent="@android:style/TextAppearance.Medium" >
+                    <item name="android:textColor">
+#000000
+                    </item>
+                    <item name="android:textSize">
+26px
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+
+                <style name="details_text_normal" >
+                    <item name="android:textColor">
+#000000
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="blue" >#0303ff
+                </color>
+                <color name="orange" >#F88017
+                </color>
+                <color name="grey" >#f7f7f7
+                </color>
+            </file>
+            <file
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/arrays.xml"
+                qualifiers="" >
+                <string-array name="listArray" >
+                    <item>
+Value 1
+                    </item>
+                    <item>
+Value 2
+                    </item>
+                    <item>
+Value 3
+                    </item>
+                </string-array>
+                <string-array name="listValues" >
+                    <item>
+1
+                    </item>
+                    <item>
+2
+                    </item>
+                    <item>
+3
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="db_preffix" >example
+                </string>
+                <string name="url_site" >example.com
+                </string>
+                <string name="url_no_image_thumb" >http://www.example.com/images/no_photo_t.jpg
+                </string>
+                <string name="app_name" >PS3 игри
+                </string>
+                <string name="confirm_dialog_yes" >Да
+                </string>
+                <string name="confirm_dialog_no" >Не
+                </string>
+                <string name="url_game_thumb" >http://www.example.com/photos/catalogue/
+                </string>
+                <string name="search_button_text" >Търси
+                </string>
+                <string name="row_imgview_background" >BLACK
+                </string>
+                <string name="url_referer" >http://www.example.com/ps3
+                </string>
+                <string name="url_game_page" >http://www.example.com/view/
+                </string>
+                <string name="data_url_json" >http://www.example.com/android/ps3
+                </string>
+                <string name="date_seen_txt" >date_seen
+                </string>
+                <string name="confirm_dialog_message" >Да маркирам ли всички резултати като прочетени?
+                </string>
+                <string name="app_name_suffix" >example.com PS3 игри
+                </string>
+                <string name="published_text" >published
+                </string>
+                <string name="confirm_dialog_title" >Въпрос
+                </string>
+            </file>
+            <file
+                name="ic_menu_resize"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_resize.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_database"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_database.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_globe"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_globe.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="favorites_icon"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/favorites_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_settings"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_settings.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_tick"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_tick.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_icon_search"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/menu_icon_search.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_love"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_love.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="menu_icon_previewimage"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/menu_icon_previewimage.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_phone"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_phone.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_categories"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ic_menu_categories.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ps3icon"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/ps3icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="noimage"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-hdpi/noimage.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_resize"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_resize.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_database"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_database.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_globe"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_globe.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_read"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_read.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_settings"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_settings.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_tick"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_tick.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_search"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_search.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_love"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_love.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="loading"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/loading.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_phone"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_phone.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_menu_categories"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/ic_menu_categories.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_exit"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_exit.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_del"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_del.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_loadxml"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_loadxml.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_localdb"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_localdb.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="menu_favs"
+                path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/drawable-ldpi/menu_favs.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+        </source>
+        <source path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/build/generated/res/rs/debug" />
+        <source path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/debug/res" />
+    </dataSet>
+
+</merger>

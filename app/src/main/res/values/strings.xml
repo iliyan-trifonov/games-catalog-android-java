@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PS3 игри</string>
+    <string name="search_button_text">Търси</string>
+    <string name="published_text">published</string>
+    <string name="date_seen_txt">date_seen</string>
+    <string name="row_imgview_background">BLACK</string>
+    <string name="confirm_dialog_title">Въпрос</string>
+    <string name="confirm_dialog_message">Да маркирам ли всички резултати като прочетени?</string>
+    <string name="confirm_dialog_yes">Да</string>
+    <string name="confirm_dialog_no">Не</string>
+    <string name="data_url_json">http://www.example.com/android/ps3</string>
+    <string name="url_game_page">http://www.example.com/view/</string>
+    <string name="url_site">example.com</string>
+    <string name="app_name_suffix">example.com PS3 игри</string>
+    <string name="url_game_thumb">http://www.example.com/photos/catalogue/</string>
+    <string name="db_preffix">example</string>
+    <string name="url_no_image_thumb">http://www.example.com/images/no_photo_t.jpg</string>
+    <string name="url_referer">http://www.example.com/ps3</string>
+</resources>

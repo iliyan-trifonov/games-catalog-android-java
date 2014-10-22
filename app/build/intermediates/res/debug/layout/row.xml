@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/rowselector" android:padding="3px" android:layout_gravity="center_vertical">
+    <LinearLayout android:id="@+id/linearLayout4" android:layout_gravity="center_vertical|center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingRight="3px">
+        <ProgressBar android:layout_height="100px" android:visibility="gone" android:layout_width="100px" android:id="@+id/progressBar1"></ProgressBar>
+        <ImageView android:id="@+id/imageView1" android:maxWidth="100px" android:adjustViewBounds="true" android:layout_height="wrap_content" android:maxHeight="100px" android:src="@drawable/noimage" android:layout_width="wrap_content"></ImageView>
+    </LinearLayout>
+    <TableLayout android:layout_width="wrap_content" android:id="@+id/tableLayout1" android:layout_height="wrap_content" android:layout_gravity="center_vertical|center_horizontal">
+        <TableRow android:id="@+id/tableRow1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:id="@+id/linearLayout2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@+id/favsIconInList" android:src="@drawable/favorites_icon" android:layout_height="wrap_content" android:layout_width="wrap_content" android:visibility="gone" android:layout_gravity="center_vertical"></ImageView>
+                <TextView android:layout_width="wrap_content" android:id="@+id/textView1" android:layout_gravity="left" android:text="Game Name" android:singleLine="true" android:layout_height="wrap_content"></TextView>
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:id="@+id/tableRow2" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:text="Other" android:id="@+id/otherText" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+        </TableRow>
+        <TableRow android:layout_height="wrap_content" android:id="@+id/tableRow4" android:layout_width="wrap_content">
+            <LinearLayout android:id="@+id/linearLayout3" android:layout_height="wrap_content" android:layout_width="wrap_content">
+                <TextView android:layout_width="wrap_content" android:id="@+id/authorInfoText" android:layout_height="wrap_content" android:text="author info"></TextView>
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:id="@+id/tableRow3" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:id="@+id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/publishedText" android:text="@string/published_text" android:visibility="gone"></TextView>
+                <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="seen text" android:id="@+id/dateSeenTextList"></TextView>
+            </LinearLayout>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
+<!-- From: file:/home/iliyan/AndroidstudioProjects/games-catalog-android/app/src/main/res/layout/row.xml -->
